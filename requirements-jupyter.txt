@@ -1,0 +1,7 @@
+jupyter
+pyright
+jedi-language-server
+python-lsp-server
+python-lsp-server[all]
+jupyterlab-lsp
+# python-language-server

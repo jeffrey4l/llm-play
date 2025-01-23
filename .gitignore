@@ -1,0 +1,4 @@
+*.data
+*.data*
+.virtual_documents
+.ipynb_checkpoints

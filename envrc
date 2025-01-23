@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export TRANSFORMERS_OFFLINE=1
+export HF_DATASETS_OFFLINE=1
+export DISABLE_TELEMETRY=1
+# disable chroma telemetry
+export ANONYMIZED_TELEMETRY=false
