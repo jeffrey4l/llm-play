@@ -26,7 +26,7 @@ class SearchTool(BaseTool):
 
     def _run(self, query: str) -> str:
         print("\nSearchTool query: " + query)
-        return "你在肃宁： 气温： 10度， 湿度： 50%, 空气质量：优"
+        return "你在北京： 气温： 10度， 湿度： 50%, 空气质量：优"
 
 
 # 计算工具
